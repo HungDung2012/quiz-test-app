@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "sdhfu2324i1is"
+    },
+    {
+      "id": "2",
+      "fullName": "Nguyen Thi B",
+      "email": "nguyenthib@gmail.com",
+      "password": "nguyenthib",
+      "token": "axxownkaw13w"
+    },
+    {
+      "id": "3",
+      "fullName": "Nguyen Thi C",
+      "email": "nguyenthic@gmail.com",
+      "password": "nguyenthic",
+      "token": "kvni2nkfksdawf"
+    },
+    {
+      "id": "9592",
+      "fullName": "nguyen thi d",
+      "email": "nguyenthid@gmail.com",
+      "password": "nguyenthid",
+      "token": "59R16C6hxqc9y7GmwbKb"
+    },
+    {
+      "id": "987a",
+      "fullName": "nguyen thi e",
+      "email": "nguyenthie@gmail.com",
+      "password": "nguyenthie",
+      "token": "DByAsbkqGwgnWLokQzmX"
+    },
+    {
+      "id": "52fd",
+      "fullName": "nguyen thi f",
+      "email": "nguyenthif@gmail.com",
+      "password": "nguyenthie",
+      "token": "SUm6tW0pYxKJj8eGqB4t"
+    },
+    {
+      "id": "1eab",
+      "fullName": "<script>alert(1)</script>",
+      "email": "123@gmail.com",
+      "password": "111",
+      "token": "DiZ82mEoRFMxvzNY2Gce"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "Javascript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "topicId": 1,
+      "question": "HTML là viết tắt của...?",
+      "answers": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "2",
+      "topicId": 1,
+      "question": "Ai là người đưa ra các tiêu chuẩn Web?",
+      "answers": [
+        "Tổ chức World Wide Web Consortium (W3C)",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "3",
+      "topicId": 1,
+      "question": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+      "answers": [
+        "<h6>",
+        "<h1>",
+        "<head>",
+        "<heading>"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "answers": [
+    {
+      "id": "1",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "topicId": "2",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "1611",
+      "userId": 1,
+      "topicId": "1",
+      "answers": []
+    },
+    {
+      "id": "1e30",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "747a",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "7f83",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "bb49",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "2c03",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 2
+        },
+        {
+          "questionId": 3,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "934c",
+      "userId": 1,
+      "topicId": "1",
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 0
+        },
+        {
+          "questionId": 2,
+          "answer": 1
+        },
+        {
+          "questionId": 3,
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

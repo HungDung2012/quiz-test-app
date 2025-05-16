@@ -4,4 +4,4 @@
 
 + Đăng nhập, đăng kí
 + Chọn đề bài 
-+ Làm bài và xem kết quả
++ Làm bài và xem kết quả.
